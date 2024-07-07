@@ -12,7 +12,7 @@ const App = () => {
 
       <div className="form-group">
         <div className="form-section">
-          <label htmlFor=""></label>
+          <label className=""></label>
         </div>
       </div>
     </form>
