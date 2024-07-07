@@ -7,7 +7,7 @@ const App = () => {
     <form className="converter-form">
       <div className='form-group'>
         <label className="form-label">Enter Amount</label>
-        <input type="number" className='form-input'/>
+        <input type="number" className="form-input" required/>
       </div>
     </form>
     </div>
