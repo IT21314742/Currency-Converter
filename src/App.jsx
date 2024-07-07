@@ -6,7 +6,7 @@ const App = () => {
       <h2 className='converter-title'>Currency Converter</h2>
     <form className="converter-form">
       <div className='form-group'>
-        <label htmlFor=""></label>
+        <label className=""></label>
       </div>
     </form>
     </div>
