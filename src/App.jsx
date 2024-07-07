@@ -9,6 +9,7 @@ const App = () => {
         <label className="form-label">Enter Amount</label>
         <input type="number" className="form-input" required/>
       </div>
+      
     </form>
     </div>
   )
