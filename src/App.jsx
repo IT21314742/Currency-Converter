@@ -10,7 +10,7 @@ const App = () => {
         <input type="number" className="form-input" required/>
       </div>
 
-      <div className=''
+      <div className="form-group"
     </form>
     </div>
   )
