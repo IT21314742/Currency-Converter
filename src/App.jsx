@@ -15,10 +15,26 @@ const App = () => {
           <label className="form-label">Form</label>
           <div className="currency-select">
             <img src="https://flagsapi.com/US/flat/64.png" alt="Flag" />
+            
             <select className="currency-dropdown">
-              <option value="USD">USD</option>
-              <option value="LKR">LKR</option>
-              <option value="NPR">NPR</option>
+              <option value="USD" selected>USD</option>
+              <option value="LKR" >LKR</option>
+              <option value="NPR" >NPR</option>
+            </select>
+          </div>
+        </div>
+
+        <div className="swap-icon"></div>
+
+        <div className="form-section">
+          <label className="form-label">Form</label>
+          <div className="currency-select">
+            <img src="https://flagsapi.com/LK/flat/64.png" alt="Flag" />
+            
+            <select className="currency-dropdown">
+              <option value="USD" >USD</option>
+              <option value="LKR" selected>LKR</option>
+              <option value="NPR" >NPR</option>
             </select>
           </div>
         </div>
