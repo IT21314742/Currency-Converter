@@ -14,7 +14,7 @@ const App = () => {
         <div className="form-section">
           <label className="form-label">Form</label>
           <div className="currency-select">
-            <img src="" alt="" />
+            <img src="https://flagsapi.com/US/flat/64.png" alt="Flag" />
             <select className="currency-dropdown">
               <option value="USD">USD</option>
               <option value="LKR">LKR</option>
