@@ -46,7 +46,9 @@ const App = () => {
             </div>
           </div>
 
-          <button className="submit-button"></button>
+          <button type="submit" className="submit-button">Get Exchange rate</button>
+
+          <p className="exchange-rate-result">1,000 USD = 300000.00 LKR</p>
         </div>
       </form>
     </div>
