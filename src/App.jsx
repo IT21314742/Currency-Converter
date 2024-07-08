@@ -12,7 +12,11 @@ const App = () => {
 
       <div className="form-group">
         <div className="form-section">
-          <label className=""></label>
+          <label className="form-label">Form</label>
+          <div className="currency-select">
+            <img src="" alt="" />
+            <select name="" id=""></select>
+          </div>
         </div>
       </div>
     </form>
