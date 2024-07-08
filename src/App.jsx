@@ -15,7 +15,11 @@ const App = () => {
           <label className="form-label">Form</label>
           <div className="currency-select">
             <img src="" alt="" />
-            <select name="" id=""></select>
+            <select className="currency-dropdown">
+              <option value="USD">USD</option>
+              <option value="LKR">LKR</option>
+              <option value="NPR">NPR</option>
+            </select>
           </div>
         </div>
       </div>
