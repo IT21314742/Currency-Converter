@@ -43,7 +43,7 @@ body {
 
 .converter-form .form-group{
   display: flex;
-  margin-bottom: 30;
+  margin-bottom: 30px;
 }
 
 .converter-form .form-group .form-label {
