@@ -19,5 +19,5 @@ body {
   background: red ;
   padding: 40px 30px 50px;
   border-radius: 8px;
-
+  max-width: 410px;
 }
