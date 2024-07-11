@@ -20,6 +20,7 @@ body {
 }
 
 .currency-converter {
+  margin: 0 auto;
   background: red ;
   padding: 40px 30px 50px;
   border-radius: 8px;
