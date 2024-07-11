@@ -32,4 +32,6 @@ body {
 
 .currency-converter .converter-title {
   color: #fff;
+  font-size: 1.6rem;
+  font-weight: 600;
 }
