@@ -42,7 +42,7 @@ body {
 }
 
 .converter-form .form-group{
-  display: ;
+  display: flex;
 }
 
 .converter-form .form-group .form-label {
