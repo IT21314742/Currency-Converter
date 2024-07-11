@@ -16,5 +16,6 @@ body {
 }
 
 .currency-converter {
-  background: red;
+  background: red ;
+  padding: 40px;
 }
