@@ -44,8 +44,16 @@ body {
 .converter-form .form-group{
   display: flex;
   margin-bottom: 30px;
+  flex-direction: column;
 }
 
 .converter-form .form-group .form-label {
   color: #fff;
+}
+
+.converter-form .form-group .form-input{
+  min-height: 48px;
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.3);
 }
