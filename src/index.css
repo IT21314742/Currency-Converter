@@ -70,6 +70,7 @@ body {
 .converter-form .form-currency-group {
   flex-direction: row;
   align-items: center;
+  justify-content: space-around;
 }
 
 .form-currency-group .currency-select {
@@ -91,6 +92,18 @@ body {
   background: none;
   color: #fff;
   font-weight: 500;
+  font-size: 1rem;
   padding: 0 10px 0 5px;
-  
+}
+
+.form-currency-group .currency-select .currency-dropdown option{
+  color: #000;
+  font-weight: 500;
+}
+
+.form-currency-group .swap-icon {
+  height: 40px;
+  width: 40px;
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.5);
 }
