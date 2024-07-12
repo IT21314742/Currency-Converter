@@ -104,6 +104,10 @@ body {
 .form-currency-group .swap-icon {
   height: 40px;
   width: 40px;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  border-radius: 50%;
   background: rgba(255, 255, 255, 0.1);
   border: 1px solid rgba(255, 255, 255, 0.5);
 }
