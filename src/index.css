@@ -127,5 +127,20 @@ body {
   outline: none;
   font-size: 1rem;
   font-weight: 600;
-  cursor: pointer;
+  cursor: pointer;transition: 0.2s ease;
+}
+
+.converter-form .submit-button:hover {
+  background: rgba(255, 255, 255, 0.8);
+}
+
+.converter-form .exchange-rate-result {
+  color: #fff;
+  font-size: 1.1rem;
+  font-weight: 500;
+  text-align: center;
+  padding: 25px 0;
+  margin-top: 30px;
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.15);
 }
