@@ -71,3 +71,8 @@ body {
   flex-direction: row;
   align-items: center;
 }
+
+.form-currency-group .currency-select {
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.5);
+}
