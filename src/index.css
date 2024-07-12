@@ -49,11 +49,20 @@ body {
 
 .converter-form .form-group .form-label {
   color: #fff;
+  font-weight: 500;
+  display: block;
+  margin-bottom: 9px;
+  font-size: 1rem;
 }
 
 .converter-form .form-group .form-input{
+  outline: none;
+  font-size: 1.1rem;
+  padding: 0 15px;
+  color: #fff;
+  font-weight: 500;
   min-height: 48px;
   border-radius: 6px;
   background: rgba(255, 255, 255, 0.1);
-  border: 1px solid rgba(255, 255, 255, 0.3);
+  border: 1px solid rgba(255, 255, 255, 0.5);
 }
