@@ -107,7 +107,25 @@ body {
   align-items: center;
   justify-content: center;
   cursor: pointer;
+  display: flex;
+  margin-top: 25px;
   border-radius: 50%;
   background: rgba(255, 255, 255, 0.1);
   border: 1px solid rgba(255, 255, 255, 0.5);
+  transition: 0.2s ease;
+}
+
+.form-currency-group .swap-icon:hover{
+  background: rgba(255, 255, 255, 0.3);
+}
+
+.converter-form .submit-button {
+  width: 100%;
+  min-height: 52px;
+  border-radius: 6px;
+  border: none;
+  outline: none;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
 }
