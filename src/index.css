@@ -73,6 +73,10 @@ body {
 }
 
 .form-currency-group .currency-select {
+  display: flex;
+  align-items: center;
+  border-radius: 6px;
   background: rgba(255, 255, 255, 0.1);
   border: 1px solid rgba(255, 255, 255, 0.5);
+
 }
