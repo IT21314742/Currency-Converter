@@ -1,6 +1,6 @@
 const ConverterForm = () => {
   return (
-    <div>Conveter</div>
+    <div>ConveterF</div>
   )
 }
 
