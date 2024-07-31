@@ -1,4 +1,4 @@
-import Re
+import R
 const CurrencySelect = () => {
     return (
         <div className="currency-select">
