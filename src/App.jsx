@@ -1,9 +1,11 @@
 import React from 'react'
+import ConverterForm from './components/ConverterForm'
 
 const App = () => {
   return (
     <div className='currency-converter'>
       <h2 className='converter-title'>Currency Converter</h2>
+      <ConverterForm 
       {/* <form className="converter-form">
         <div className='form-group'>
           <label className="form-label">Enter Amount</label>
