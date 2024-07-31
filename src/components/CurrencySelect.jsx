@@ -2,7 +2,7 @@ import React from 'react'
 
 const CurrencySelect = () => {
   return (
-    <div>Cu
+    <div>C
   )
 }
 
