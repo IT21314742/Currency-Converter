@@ -31,7 +31,7 @@ const ConverterForm = () => {
 
       <div className="form-section">
         <label className="form-label">Form</label>
-        <Cu
+        <Cur
         {/* <div className="currency-select">
           <img src="https://flagsapi.com/LK/flat/64.png" alt="Flag" />
 
