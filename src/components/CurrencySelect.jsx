@@ -1,4 +1,4 @@
-i
+
 const CurrencySelect = () => {
     return (
         <div className="currency-select">
