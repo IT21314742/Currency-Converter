@@ -1,4 +1,4 @@
-impo
+imp
 const CurrencySelect = () => {
     return (
         <div className="currency-select">
