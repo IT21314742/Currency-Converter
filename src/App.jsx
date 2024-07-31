@@ -4,7 +4,7 @@ const App = () => {
   return (
     <div className='currency-converter'>
       <h2 className='converter-title'>Currency Converter</h2>
-      <form className="converter-form">
+      {/* <form className="converter-form">
         <div className='form-group'>
           <label className="form-label">Enter Amount</label>
           <input type="number" className="form-input" required />
@@ -52,7 +52,7 @@ const App = () => {
 
         <p className="exchange-rate-result">1,000 USD = 300000.00 LKR</p>
 
-      </form>
+      </form> */}
     </div>
   )
 }
