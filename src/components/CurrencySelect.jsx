@@ -1,4 +1,4 @@
-import
+impor
 const CurrencySelect = () => {
     return (
         <div className="currency-select">
