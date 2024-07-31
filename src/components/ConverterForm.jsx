@@ -1,3 +1,5 @@
+import CurrencySelect from "./CurrencySelect"
+
 const ConverterForm = () => {
   return (
     <form className="converter-form">
@@ -31,7 +33,7 @@ const ConverterForm = () => {
 
       <div className="form-section">
         <label className="form-label">Form</label>
-        <CurrencySelec
+        <CurrencySelect
         {/* <div className="currency-select">
           <img src="https://flagsapi.com/LK/flat/64.png" alt="Flag" />
 
