@@ -1,4 +1,4 @@
-import Reac
+import Rea
 const CurrencySelect = () => {
     return (
         <div className="currency-select">
