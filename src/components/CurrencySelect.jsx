@@ -1,4 +1,4 @@
-import React fro
+import React fr
 const CurrencySelect = () => {
     return (
         <div className="currency-select">
