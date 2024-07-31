@@ -1,4 +1,4 @@
-import React from 'react
+import React from 'reac
 const CurrencySelect = () => {
     return (
         <div className="currency-select">
